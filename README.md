@@ -6,8 +6,9 @@ node.jsのsocket.ioを利用したWebSocketサーバーとクライアントHTML
 ## Usage
 ### Install
 ```
-npm install express
-npm install socket.io
+npm install express@4.16.3
+npm install socket.io@2.1.0
+
 ```
 
 ```
